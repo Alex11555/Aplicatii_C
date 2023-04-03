@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673480452 source:e:\code blocks\seek\main.cpp
+	<iostream>
+	<fstream>
+

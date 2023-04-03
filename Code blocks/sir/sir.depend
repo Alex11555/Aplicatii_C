@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653858228 source:e:\code blocks\sir\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

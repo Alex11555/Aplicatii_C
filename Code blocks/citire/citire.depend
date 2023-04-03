@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647276892 source:e:\code blocks\citire\main.cpp
+	<iostream>
+	<fstream>
+

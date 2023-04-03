@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673473681 source:e:\code blocks\fisiere nr 4\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

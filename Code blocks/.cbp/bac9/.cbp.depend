@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648335995 source:e:\code blocks\.cbp\bac9\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673469432 source:e:\code blocks\fisier binar\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655406709 source:e:\code blocks\gl;l,;gh\main.cpp
+	<iostream>
+	<fstream>
+

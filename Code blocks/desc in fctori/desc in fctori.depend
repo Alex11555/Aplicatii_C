@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647810390 source:e:\code blocks\desc in fctori\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655336797 source:e:\code blocks\testare\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

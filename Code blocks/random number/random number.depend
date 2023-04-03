@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678721159 source:e:\code blocks\random number\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<chrono>
+	<thread>
+
