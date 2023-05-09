@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675299624 source:c:\users\alex\documents\programe\verific\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

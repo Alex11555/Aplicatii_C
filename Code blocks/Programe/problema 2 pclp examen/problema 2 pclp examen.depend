@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675324558 source:c:\users\alex\documents\programe\problema 2 pclp examen\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

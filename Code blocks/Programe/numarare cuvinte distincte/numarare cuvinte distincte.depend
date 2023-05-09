@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671102333 source:c:\users\alex\documents\programe\numarare cuvinte distincte\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

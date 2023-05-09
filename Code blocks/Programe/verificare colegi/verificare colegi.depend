@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675296163 source:c:\users\alex\documents\programe\verificare colegi\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

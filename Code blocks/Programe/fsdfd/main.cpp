@@ -1,16 +1,9 @@
 #include <iostream>
-
 using namespace std;
 
 class Fractie{
     private:
         int numarator, numitor;
-        void simplifica(){
-            int a = numarator, b = numitor , r;
-            while(b)
-                r = a % b, a = b, b = r;
-            numarator /= a, numitor /= a;
-        }
     public:
         void afiseaza(){
             cout << numarator << "/" << numitor << endl;
@@ -18,7 +11,9 @@ class Fractie{
         void seteaza(int a , int b){
             numarator = a , numitor = b;
         }
-
+        Fractie(){
+            numarator = 0, numitor = 1;
+        }
         Fractie(int a){
             numarator = a, numitor = 1;
         }
@@ -26,13 +21,23 @@ class Fractie{
             if(b == 0)
                 b = 1;
             numarator = a, numitor = b;
-            simplifica();
+        }
+        Fractie & creste(int n)
+        {
+         this->numarator += n * this->numitor;
         }
 };
 
-int main(){
 
-    Fractie z(27 , 6);
-    z.afiseaza();
+int main()
+{
+    Fractie F(1,4);
+    F.creste(2).creste(3);
+    F.afiseaza();
+
+
+
+
     return 0;
+
 }

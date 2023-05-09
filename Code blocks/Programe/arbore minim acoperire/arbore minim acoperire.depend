@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682410603 source:c:\users\alex\documents\programe\arbore minim acoperire\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+

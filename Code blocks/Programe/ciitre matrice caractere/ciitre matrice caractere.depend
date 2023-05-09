@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678403762 source:c:\users\alex\documents\programe\ciitre matrice caractere\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671103681 source:c:\users\alex\documents\programe\stocuri\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+

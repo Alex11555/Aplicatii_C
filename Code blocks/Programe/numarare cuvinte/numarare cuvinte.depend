@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671098101 source:c:\users\alex\documents\programe\numarare cuvinte\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
