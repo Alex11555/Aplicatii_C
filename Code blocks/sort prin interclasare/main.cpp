@@ -66,7 +66,7 @@ void MSORT(int V[],int p,int u)
     }}
 
     int main()
-    {
+    {//merge sort
         cin>>n;
         citire(V,n);
         MSORT(V,1,n);

@@ -7,6 +7,7 @@ int V[100],VF[MAX]={0},k=0,n;
 
 int main()
 {
+    //sortare prin numarare
     cin>>n;
     int i,x;
     for(i=1;i<=n;i++)
