@@ -31,7 +31,7 @@ int main()
     cin>>n;
     cout<<"Ultimul element din sir: "<<fibonacci_rec(n)<<endl;//varianta recursiva(afiseaza ultimul termen din sir)
     cout<<"Sirul lui Fibonacci este:";
-    fibonacci(n);//varianta nerecursiva(iterativ)
+    fibonacci(n);//varianta iterativa
 
     return 0;
 }

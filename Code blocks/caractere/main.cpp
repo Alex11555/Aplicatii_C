@@ -11,7 +11,7 @@ int main()
     while(p)
     { if(!strcmp(p,x))
     p=strtok(NULL,";");
-    cout<<p;
+    cout<<p<<" ";
     p=strtok(NULL,"; ");
     }
     return 0;
